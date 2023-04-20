@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_ToDo</string>
+
+    <!--TodoApp-->
+    <string name="todo_title">App To Do</string>
+    <string name="todo_categories">Categorías:</string>
+    <string name="todo_tasks">Tareas:</string>
+
+    <string name="todo_dialog_add_task">Agregar una tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_add_task_button">Nueva tarea</string>
+
+    <string name="todoBtn">Btn</string>
+</resources>
